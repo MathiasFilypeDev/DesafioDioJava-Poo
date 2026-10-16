@@ -33,8 +33,13 @@ Aqui aplico conceitos fundamentais de POO (como Herança, Polimorfismo, Encapsul
 ![Diagram](https://img.shields.io/badge/UML-Diagram-blue?style=for-the-badge&logo=uml&logoColor=white)
 
 ---
- 
-## 📊 Estatísticas
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathiasfilypedev&theme=radical&layout=pie)](https://github.com/mathiasfilypedev)  
-![Streak](https://streak-stats.demolab.com?user=mathiasfilypedev&theme=radical&locale=pt_BR)
+
+
+**Distribuição de Tecnologias:**
+
+* 🟠 **Java (Linguagem Principal):** `60%`  
+  `██████████████████████████████░░░░░░░░░░`
+* 🔴 **Git (Versionamento):** `25%`  
+  `████████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
+* 🔵 **UML / Diagramas:** `15%`  
+  `████████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░`
